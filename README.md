@@ -1,5 +1,9 @@
 # video-and-music-downloader-privacy-policy
 
+Privacy Policy for "Video & Music Downloader - 2024"
+
+This privacy policy, under the umbrella of 'FreePublicSolutions.' explains how Video & Music Downloader - 2024 application collects, uses, processes, and discloses information to protect the privacy of its users. By downloading and using this application, you agree to this privacy policy.
+
 User-Provided Information:
 During the use of the application, user-provided information such as name, email address, location information, device identifier, etc., may be collected. Additionally, the content downloaded by the user and their general access patterns and preferences may also be recorded.
 
