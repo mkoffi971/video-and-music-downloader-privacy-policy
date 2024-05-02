@@ -2,7 +2,7 @@
 
 Privacy Policy for "Video & Music Downloader - 2024"
 
-This privacy policy, under the umbrella of 'FreePublicSolutions.' explains how "Video & Music Downloader - 2024" application collects, uses, processes, and discloses information to protect the privacy of its users. By downloading and using this application, you agree to this privacy policy.
+This privacy policy, under the umbrella of 'FreePublicSolutions,' explains how "Video & Music Downloader - 2024" application collects, uses, processes, and discloses information to protect the privacy of its users. By downloading and using this application, you agree to this privacy policy.
 
 User Data
 
@@ -34,4 +34,4 @@ This Privacy Policy is applicable to the "Video & Music Downloader - 2024" appli
 
 Contact
 
-If you have any questions or concerns about our Privacy Policy, please contact us at mkoffi971@hotmail.com.
+If you have any questions or concerns, please feel free to contact us. You can email us at mkoffi971@hotmail.com for more information.
